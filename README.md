@@ -81,24 +81,12 @@ npm run web
 
 ## Estrutura de Componentes
 
-- 
-
-App.tsx
-
-: Componente principal que renderiza o cabeçalho e o feed de postagens.
-- 
-
-Feed.tsx
-
-: Componente que representa uma postagem individual no feed.
+- App.tsx: Componente principal que renderiza o cabeçalho e o feed de postagens.
+- Feed.tsx: Componente que representa uma postagem individual no feed.
 
 ## Estilos
 
-Os estilos são definidos utilizando 
-
-StyleSheet
-
- do React Native e estão localizados nos próprios componentes.
+Os estilos são definidos utilizando StyleSheet do React Native e estão localizados nos próprios componentes.
 
 ## Contribuição
 
