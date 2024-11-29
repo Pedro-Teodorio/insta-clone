@@ -1,5 +1,3 @@
-Pedro-Teodorio: Crie um README explicando como executar minha aplicação e pra que ela serve
-
 Workspace: # Insta Clone
 
 Este é um projeto de clone do Instagram desenvolvido com React Native e Expo. A aplicação permite visualizar um feed de postagens, curtir e descurtir postagens.
